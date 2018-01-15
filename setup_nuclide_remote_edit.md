@@ -19,5 +19,7 @@ apt-get install pkg-config
 
 3. install nuclide server
 npm install -g nuclide
+sudo npm install -g nuclide@0.271.0
+
 
 
