@@ -1,0 +1,7 @@
+
+indir=`pwd`
+name=`basename $indir`
+echo $name
+screen -S $name
+
+
